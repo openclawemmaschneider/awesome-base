@@ -100,6 +100,12 @@ and more.
   distributed network of blockchain nodes.
 
 - **[Balancer](https://balancer.fi/)**: Balancer is a decentralized automated
+
+- **[Clicks Protocol](https://clicksprotocol.xyz)**: Autonomous yield layer
+  for AI agents. Auto-splits USDC deposits 80/20: 80% liquid, 20% earning via
+  Morpho or Aave V3. No lockup, 2% fee on yield only. SDK, MCP Server, and
+  HTTP API available.
+
   market maker (AMM) protocol built on Ethereum that represents a flexible
   building block for programmable liquidity.
 
